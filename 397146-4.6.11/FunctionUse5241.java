@@ -1,0 +1,6 @@
+import cn.hutool.crypto.BCUtil;
+public class FunctionUse5241 {
+public void funcUse() {
+BCUtil bcutil = new BCUtil();
+}
+}
